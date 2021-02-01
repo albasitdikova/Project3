@@ -4,7 +4,7 @@
 Classify if person get into a car accident
 
 ## Data: 
-https://www.kaggle.com/mu202199/safe-driver-prediction
+https://www.kaggle.com/floser/french-motor-claims-datasets-fremtpl2freq
 
 This prediction can be used by insurance companies to count risks give different prices for clients on insurances
 
