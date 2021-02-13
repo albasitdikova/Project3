@@ -4,14 +4,14 @@
 This prediction made for insurance company to help to predict who of the clients is gonna make claim next year and understand which features of clients and his car are matter.
 
 ## Features:
-• Area - The area code. 
-• VehPower - The power of the car (ordered categorical). 
-• VehAge - The vehicle age, in years. 
-• DrivAge - The driver age, in years (in France, people can drive a car at 18). 
-• BonusMalus - Bonus/malus, between 50 and 350: 100 means malus in France. 
-• VehBrand - The car brand (unknown categories). • VehGas The car gas, Diesel or regular. 
-• Density - The density of inhabitants (number of inhabitants per km2) in the city the driver of the car lives in. 
-• Region - The policy regions in France (based on a standard French classification)
+- Area - The area code. 
+- VehPower - The power of the car (ordered categorical). 
+- VehAge - The vehicle age, in years. 
+- DrivAge - The driver age, in years (in France, people can drive a car at 18). 
+- BonusMalus - Bonus/malus, between 50 and 350: 100 means malus in France. 
+- VehBrand - The car brand (unknown categories). • VehGas The car gas, Diesel or regular. 
+- Density - The density of inhabitants (number of inhabitants per km2) in the city the driver of the car lives in. 
+- Region - The policy regions in France (based on a standard French classification)
 
 ## Target: 
 Claim in next year, binary(yes/no) 
