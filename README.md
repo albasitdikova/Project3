@@ -1,5 +1,5 @@
 # This repo is broken, I'll try to fix later
-New working repo: https://github.com/albasitdikova/Car_claim_predictorhttps://github.com/albasitdikova/Car_claim_predictor
+New working repo: https://github.com/albasitdikova/Car_claim_predictor
 
 # Classifying car insurance claims
 
